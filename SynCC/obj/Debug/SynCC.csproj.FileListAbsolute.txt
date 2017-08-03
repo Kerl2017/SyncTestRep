@@ -1,0 +1,9 @@
+c:\users\rolm\documents\visual studio 2013\Projects\SynCC\SynCC\bin\Debug\SynCC.exe.config
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\bin\Debug\SynCC.exe
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\bin\Debug\SynCC.pdb
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\obj\Debug\SynCC.csprojResolveAssemblyReference.cache
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\obj\Debug\SynCC.Form1.resources
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\obj\Debug\SynCC.Properties.Resources.resources
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\obj\Debug\SynCC.csproj.GenerateResource.Cache
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\obj\Debug\SynCC.exe
+C:\Users\rolm\Documents\Visual Studio 2013\Projects\SynCC\SynCC\obj\Debug\SynCC.pdb
